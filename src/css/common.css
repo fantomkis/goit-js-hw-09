@@ -16,3 +16,24 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.container {
+  margin-left: 0 auto;
+}
+.button-color-start {
+  background-color: green;
+  width: 200px;
+  height: 50px;
+  border: none;
+  color: antiquewhite;
+  border-radius: 4px;
+  margin: 0 20px;
+}
+.button-color-stop {
+  background-color: brown;
+  width: 200px;
+  height: 50px;
+  border: none;
+  color: antiquewhite;
+  border-radius: 4px;
+}
