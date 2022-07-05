@@ -37,3 +37,20 @@ img {
   color: antiquewhite;
   border-radius: 4px;
 }
+.timer {
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+}
+.value {
+  font-size: 40px;
+  line-height: 18px;
+  margin-bottom: 20px;
+}
