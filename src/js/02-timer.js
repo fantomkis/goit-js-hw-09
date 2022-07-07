@@ -18,6 +18,7 @@ const options = {
   onClose(selectedDates) {
     console.log(selectedDates[0]);
     const different = selectedDates[0] - new Date();
+
     console.log(different);
 
     if (different < 0) {
